@@ -1,0 +1,15 @@
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\bin\Debug\net6.0\EvaluateBoolean.exe
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\bin\Debug\net6.0\EvaluateBoolean.deps.json
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\bin\Debug\net6.0\EvaluateBoolean.runtimeconfig.json
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\bin\Debug\net6.0\EvaluateBoolean.dll
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\bin\Debug\net6.0\EvaluateBoolean.pdb
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\obj\Debug\net6.0\EvaluateBoolean.csproj.AssemblyReference.cache
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\obj\Debug\net6.0\EvaluateBoolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\obj\Debug\net6.0\EvaluateBoolean.AssemblyInfoInputs.cache
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\obj\Debug\net6.0\EvaluateBoolean.AssemblyInfo.cs
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\obj\Debug\net6.0\EvaluateBoolean.csproj.CoreCompileInputs.cache
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\obj\Debug\net6.0\EvaluateBoolean.dll
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\obj\Debug\net6.0\refint\EvaluateBoolean.dll
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\obj\Debug\net6.0\EvaluateBoolean.pdb
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\obj\Debug\net6.0\EvaluateBoolean.genruntimeconfig.cache
+C:\Users\ASus\Documents\EvaluateBoolean\EvaluateBoolean\obj\Debug\net6.0\ref\EvaluateBoolean.dll
