@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\ConsoleApp1\New folder\DoWhileStatement\DoWhileStatement\obj\Debug\DoWhileStatement.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\ConsoleApp1\New folder\DoWhileStatement\DoWhileStatement\obj\Debug\DoWhileStatement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\ConsoleApp1\New folder\DoWhileStatement\DoWhileStatement\obj\Debug\DoWhileStatement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\ConsoleApp1\New folder\DoWhileStatement\DoWhileStatement\bin\Debug\DoWhileStatement.exe.config
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\ConsoleApp1\New folder\DoWhileStatement\DoWhileStatement\bin\Debug\DoWhileStatement.exe
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\ConsoleApp1\New folder\DoWhileStatement\DoWhileStatement\bin\Debug\DoWhileStatement.pdb
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\ConsoleApp1\New folder\DoWhileStatement\DoWhileStatement\obj\Debug\DoWhileStatement.exe
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\ConsoleApp1\New folder\DoWhileStatement\DoWhileStatement\obj\Debug\DoWhileStatement.pdb
