@@ -1,0 +1,15 @@
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\bin\Debug\net6.0\ControlVariableScope.exe
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\bin\Debug\net6.0\ControlVariableScope.deps.json
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\bin\Debug\net6.0\ControlVariableScope.runtimeconfig.json
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\bin\Debug\net6.0\ControlVariableScope.dll
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\bin\Debug\net6.0\ControlVariableScope.pdb
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\obj\Debug\net6.0\ControlVariableScope.csproj.AssemblyReference.cache
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\obj\Debug\net6.0\ControlVariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\obj\Debug\net6.0\ControlVariableScope.AssemblyInfoInputs.cache
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\obj\Debug\net6.0\ControlVariableScope.AssemblyInfo.cs
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\obj\Debug\net6.0\ControlVariableScope.csproj.CoreCompileInputs.cache
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\obj\Debug\net6.0\ControlVariableScope.dll
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\obj\Debug\net6.0\refint\ControlVariableScope.dll
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\obj\Debug\net6.0\ControlVariableScope.pdb
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\obj\Debug\net6.0\ControlVariableScope.genruntimeconfig.cache
+C:\Users\ASus\Documents\modul 2\ControlVariableScope\ControlVariableScope\obj\Debug\net6.0\ref\ControlVariableScope.dll
